@@ -16,7 +16,6 @@ The Battleship Game is a turn-based strategy game where each player tries to sin
 - **Different ship types:** Various ship sizes and types to strategize your attacks.
 - **Simple UI:** A straightforward user interface that allows you to focus on the game.
 
-![Gameplay](https://media.giphy.com/media/xT0BKqhdlKCxCNsVTq/giphy.gif)
 
 ## 🧩 How to Play
 
