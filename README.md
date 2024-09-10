@@ -2,7 +2,7 @@
 
 Welcome to the Battleship Game! This is a classic game of naval strategy, written in Java. Test your skills by sinking the opponent's fleet before they sink yours.
 
-![Battleship](https://media.giphy.com/media/l2SpQZg1jjp2RQSOE/giphy.gif)
+![Battleship]([https://media.giphy.com/media/l2SpQZg1jjp2RQSOE/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRoZWUzMGJ6NnB5NGk4emN5dXdqMHFibmxreGNqZGU0dzE2dGhxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q8m7U0XA3p5o39ZnTQ/giphy.webp))
 
 ## 🎮 Gameplay
 
